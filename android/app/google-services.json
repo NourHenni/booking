@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462575029942",
+    "project_id": "projectbooking-cd92c",
+    "storage_bucket": "projectbooking-cd92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462575029942:android:f969065950a05d5823e017",
+        "android_client_info": {
+          "package_name": "com.example.booking_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462575029942-f4br6ui8i2eq7rec4ol762cnfc5bajpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoGhhVRTeH6eLnkAn_JdogS19bKZdsO9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462575029942-f4br6ui8i2eq7rec4ol762cnfc5bajpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
